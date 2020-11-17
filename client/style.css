@@ -1,3 +1,173 @@
+* {box-sizing: border-box;}
+
 body {
-  background-color: peachpuff;
+  background-color: rgb(226, 193, 54);    
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+}
+
+header {
+  background-image: url('./Header-Image-3.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%; 
+  height: 450px;
+   
+}
+
+#navbar {
+  overflow: hidden;
+  padding: 70px 50px;
+  transition: 0.4s;
+  width: 100%;
+  top: 0;
+}
+
+#navbar button {
+  font-size: 18px; 
+  padding: 15px 30px;
+  margin: 20px;
+  line-height: 25px;
+  border-radius: 4px;
+  border-style: none;
+  cursor: pointer;
+  background-color: cadetblue;
+}
+
+#navbar button:hover {
+  background-color: chocolate;
+  
+}
+
+#navbar #logo {
+  color: white;
+  float: left;
+  padding: 15px 30px;
+  line-height: 25px;
+  text-align: center;
+  margin: 20px;
+  font-size: 50px;
+  font-family: 'Goldman', cursive;
+  font-weight: bold;
+  transition: 0.4s;
+  text-decoration: none;
+}
+
+#navbar a:hover {
+  color: black;
+}
+
+#navbar-right {
+  float: right;
+}
+
+#navbar-right > button > a {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 580px) {
+  #navbar {
+    padding: 20px 10px !important;
+
+  }
+  #navbar a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  #navbar-right {
+    float: none;
+  }
+}
+.show{
+  text-align: center;
+}
+.show button {
+  width: 300px;
+  height: 50px;
+  margin: 20px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(230, 56, 25);
+  font-size: 2rem;
+  font-weight: 700;
+  color: wheat;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: auto;
+  justify-content: space-between;
+  
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.row > .text {
+  margin: 20px;
+}
+
+.text > h4 > span {
+  color: rgb(231, 90, 8);
+}
+
+.text > p {
+  color: rgba(4, 28, 243, 0.973);
+}
+
+.image {
+  margin: 15px;
+}
+
+/* Form */
+
+#add {
+  text-align: center;
+}
+#add > h2 {
+  font-family: 'Goldman', cursive;
+  font-size: 30px;
+  color: white;
+}
+
+.form-group {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.form-group > label {
+  margin-left: 10px;
+}
+
+.form-control {
+  height: 30px;
+  width: 70%;
+  border-style: none;
+  border-radius: 5px;
+}
+
+#description {
+  height: 50px;
+}
+
+#add-pet {
+  margin: auto;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 30px;
+  width: 180px;
+  border-style: none;
+  border-radius: 5px;
 }
