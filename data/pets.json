@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Jennifer",
+      "img_url": "https://user-images.githubusercontent.com/53440164/98934783-e057ee80-24e2-11eb-86a9-098e3d61564f.jpg",
+      "type": "Dog",
+      "breed": "Labrador",
+      "description": "Jennifer is a sweet 2 months old Labrador that is patiently waiting to find a new forever home. This girl really enjoys being able to go outside to run and play, but won't hesitate to play up a storm in the house if she has all of her favorite toys.",
+      "age": "2 months"
+    },
+    {
+      "id": 2,
+      "name": "Sophia",
+      "img_url": "https://user-images.githubusercontent.com/53440164/98934841-f36abe80-24e2-11eb-88bf-e3053b6df65c.jpg",
+      "type": "Dog",
+      "breed": "Shih Tzu",
+      "description": "Sophia here and I'm looking for my forever home to live out the best years of my life. I am full of energy. Everyday I'm learning new things, like how to walk on a leash, go potty outside, bark and play with toys and I still need some practice.",
+      "age": "1 month"
+    },
+    {
+      "id": 3,
+      "name": "Woody",
+      "img_url": "https://user-images.githubusercontent.com/53440164/98934867-0087ad80-24e3-11eb-8b5e-b2b0ec15f61b.jpg",
+      "type": "Dog",
+      "breed": "Golden Retriever",
+      "description": "Woody is a handsome 3 1/2 year old boy. Woody does know basic commands and is a smart pup. Since he is on the stronger side, he will learn a lot from your training. Woody will be happier when he finds a new family that can spend a lot of time with him.",
+      "age": "3 years 6 months"
+    },
+    {
+      "id": 4,
+      "name": "Scarlett",
+      "img_url": "https://user-images.githubusercontent.com/53440164/98934937-139a7d80-24e3-11eb-99aa-d69a22461201.jpg",
+      "type": "Dog",
+      "breed": "Jack Russell Terrier",
+      "description": "Scarlett is a happy, playful girl who will make you laugh and smile. She forms a bond quickly and will make a loyal companion and a wonderful family dog or a good companion for a single individual too since she likes to hang out and be with her human.",
+      "age": "3 months"
+    },
+    {
+      "id": 5,
+      "name": "Katrine",
+      "img_url": "https://user-images.githubusercontent.com/53440164/98935015-2f9e1f00-24e3-11eb-8c35-44bf42d604af.jpg",
+      "type": "Cat",
+      "breed": "British Shorthair",
+      "description": "Katrine is a beautiful girl. She is as soft as the finest velvet with a thick lush fur. Will love you until the last breath she takes as long as you are the one. She is picky about her affection. She loves cuddles and to stretch into your hands for a deeper relaxations.",
+      "age": "6 months"
+    },
+    {
+      "id": 6,
+      "name": "Timmy",
+      "img_url": "https://user-images.githubusercontent.com/53440164/98935039-39278700-24e3-11eb-80f1-5fb26470b55d.jpg",
+      "type": "Cat",
+      "breed": "British Shorthair",
+      "description": "Timmy is an adorable grey british shorthair male. He loves to play and snuggle. He is neutered and up to date on age appropriate vaccinations. He can be chatty and enjoys being held. Timmy has a lot to say and wants a person to share his thoughts with.",
+      "age": "2 years 3 months"
+    },
+    {
+      "id": 7,
+      "name": "Freddie",
+      "img_url": "https://user-images.githubusercontent.com/53440164/98935068-43e21c00-24e3-11eb-957f-80208156724b.jpg",
+      "type": "Cat",
+      "breed": "British Shorthair",
+      "description": "Freddie is a little shy at first, but very sweet when he warms up. He likes playing with shoe strings and bottle caps. He is quick to learn the rhythms of his human’s daily life. Freddie has bounced around a lot in his life, and is looking to find his forever home.",
+      "age": "2 months"
+    },
+    {
+      "id": 8,
+      "name": "Charly",
+      "img_url": "https://user-images.githubusercontent.com/53440164/98935090-4c3a5700-24e3-11eb-82ce-9f59a12afc19.jpg",
+      "type": "Dog",
+      "breed": "Jack Russell Terrier",
+      "description": "This cute boy, Charly, is three years old and he likes adults and kids. He isn’t fond of many other dogs, so he might do best in a single dog home. Charly has lots of energy, and loves to run and play. We think a fenced yard would make him very happy.",
+      "age": "8 years"
+    }
+  ]

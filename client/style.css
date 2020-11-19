@@ -122,9 +122,23 @@ header {
   color: rgba(4, 28, 243, 0.973);
 }
 
+.delete {
+  width: fit-content;
+  height: 35px;
+  border-style: none;
+  border-radius: 5px;
+  color: rgb(231, 90, 8);
+}
+.delete:hover {
+  background-color: rgb(226, 193, 54);    
+  color: rgba(4, 28, 243, 0.973);
+  cursor: pointer;
+}
+
 .image {
   margin: 15px;
 }
+
 
 /* Form */
 
