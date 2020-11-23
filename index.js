@@ -1,7 +1,3 @@
-// refactor this file to match the organization in refactored-example-*
-//  the code works as it is now!
-//  your goal is that it still works the same way after you refactor
-
 'use strict';
 
 const fs = require('fs');
